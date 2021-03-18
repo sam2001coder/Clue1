@@ -1,2 +1,2 @@
-![](q1.PNG)
+![](CLUE1.PNG)
 <a href=" "> <button>Enterthepassword</button></a>
